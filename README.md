@@ -1,8 +1,8 @@
 # DFernandez-DSalinas-Motores-PracticaUnreal
 
 ## URL Vídeo:  
-https://youtu.be/b_EybkGrD8k --> Part 1
-https://youtu.be/oanemh7xFT4 --> Part 2
+Part 1 --> https://youtu.be/b_EybkGrD8k  
+Part 2 --> https://youtu.be/oanemh7xFT4
  
 ## Controles:  
 WASD - Movimiento.  
